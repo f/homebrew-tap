@@ -1,6 +1,6 @@
 cask "deeper" do
   version "0.0.1"
-  sha256 "8c4fb63bfea38de4be50f2a15f85a57bf7744d8267febd36c8aecd2be1921762"
+  sha256 "f174a65108e90c86f09820f4df5dbf202ea2b01046f3cef75e0a6ad3633f7e1f"
 
   url "https://github.com/f/deeper/releases/download/v0.0.1/Deeper.dmg"
   name "Deeper"
