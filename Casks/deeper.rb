@@ -1,8 +1,8 @@
 cask "deeper" do
-  version "0.0.4"
-  sha256 "3be36e78b1249ba87dd598741e08c46fc1a6c97c5aab09a5194d8a5dd667955b"
+  version "0.0.5"
+  sha256 "312d550311ccf8669ae15fde9b4e6e457e012b9bb99a533bed324b1a9e70450d"
 
-  url "https://github.com/f/deeper/releases/download/v0.0.4/Deeper.dmg"
+  url "https://github.com/f/deeper/releases/download/v0.0.5/Deeper.dmg"
   name "Deeper"
   desc "macOS messaging analytics app for Beeper — visualize your conversations across platforms"
   homepage "https://github.com/f/deeper"
