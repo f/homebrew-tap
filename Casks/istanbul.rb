@@ -1,8 +1,8 @@
 cask "istanbul" do
-  version "1.1"
-  sha256 "e3696a8db7abe4d58141b6d54890c818082ec4ddd3a95d504fbfefd01b014a48"
+  version "1.2"
+  sha256 "16798a70d782225b79437defb17775ca41f80f4c29e17c80b5d9e8ec816cb2d6"
 
-  url "https://github.com/f/istanbul/releases/download/v1.1/Istanbul.dmg"
+  url "https://github.com/f/istanbul/releases/download/v1.2/Istanbul.dmg"
   name "Istanbul"
   desc "macOS menu bar app for ambient Istanbul soundscapes from BBC Rewind"
   homepage "https://github.com/f/istanbul"
