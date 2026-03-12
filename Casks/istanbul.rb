@@ -1,13 +1,13 @@
 cask "istanbul" do
-  version "1.0"
-  sha256 "e527c9afe36596852f57f9f0854813b3e418a3240ad200ab4a21215f44a5ba64"
+  version "1.1"
+  sha256 "e3696a8db7abe4d58141b6d54890c818082ec4ddd3a95d504fbfefd01b014a48"
 
-  url "https://github.com/f/istanbul/releases/download/v1.0/Istanbul.dmg"
+  url "https://github.com/f/istanbul/releases/download/v1.1/Istanbul.dmg"
   name "Istanbul"
   desc "macOS menu bar app for ambient Istanbul soundscapes from BBC Rewind"
   homepage "https://github.com/f/istanbul"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: ">= :sonoma"
 
   app "Istanbul.app"
 
