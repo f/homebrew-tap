@@ -1,14 +1,14 @@
 cask "wvw" do
-  version "0.1.0"
+  version "0.2.0"
 
   on_arm do
-    sha256 "02f0e4a2d7c3bf9729e21f61203aa7c5516d26483524253ec3c7b7439616f663"
-    url "https://github.com/f/wvw.dev-app/releases/download/v0.1.0/WVW_#{version}_aarch64.dmg"
+    sha256 "3d25ba72fab32f493b779369c352547a2a27f5be6f49fe5884305a2a1ec805ef"
+    url "https://github.com/f/wvw.dev-app/releases/download/v0.2.0/WVW_#{version}_aarch64.dmg"
   end
 
   on_intel do
-    sha256 "e42d921093c7f80f26003b7c1628a74795579e7f257720fe19282c736c7a7fb1"
-    url "https://github.com/f/wvw.dev-app/releases/download/v0.1.0/WVW_#{version}_x64.dmg"
+    sha256 "b2ef4a1aab8affbac9eafd248eb2b1c6b8ebe00e6999c25bb45caf7e160a847f"
+    url "https://github.com/f/wvw.dev-app/releases/download/v0.2.0/WVW_#{version}_x64.dmg"
   end
 
   name "WVW"
