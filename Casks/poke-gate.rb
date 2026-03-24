@@ -1,8 +1,8 @@
 cask "poke-gate" do
-  version "0.1.1"
-  sha256 "6aaa6f67683c5a3e786946c4e24e7a4f7de6046255dd18aa263e25a4da986f3f"
+  version "0.1.2"
+  sha256 "ac24f8328c2a2b1a0ad9dab37f870915c74efdf72100159a3f771a26f4ffd787"
 
-  url "https://github.com/f/poke-gate/releases/download/v0.1.1/Poke.macOS.Gate.dmg"
+  url "https://github.com/f/poke-gate/releases/download/v0.1.2/Poke.macOS.Gate.dmg"
   name "Poke Gate"
   desc "macOS menu bar app to expose your machine to your Poke AI assistant"
   homepage "https://github.com/f/poke-gate"
