@@ -2,12 +2,12 @@ cask "fastbar" do
   version "1.0.0"
   sha256 "16bac69970903fa572c21aaac4a9be4893f71531140dd5879148c7ba0981cdb4"
 
-  url "https://github.com/f/fastbar/releases/download/v1.0.0/FastBar.dmg"
+  url "https://github.com/f/fastbar/releases/download/v#{version}/FastBar.dmg"
   name "FastBar"
   desc "Fast.com download speed and history in the macOS menu bar"
   homepage "https://github.com/f/fastbar"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "FastBar.app"
 
