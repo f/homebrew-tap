@@ -4,7 +4,7 @@ cask "fastbar" do
 
   url "https://github.com/f/fastbar/releases/download/v#{version}/FastBar.dmg"
   name "FastBar"
-  desc "Fast.com download speed and history in the macOS menu bar"
+  desc "Fast.com download speed and history in the menu bar"
   homepage "https://github.com/f/fastbar"
 
   depends_on macos: :sonoma
