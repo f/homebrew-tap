@@ -1,6 +1,6 @@
 cask "fastbar" do
-  version "1.0.0"
-  sha256 "16bac69970903fa572c21aaac4a9be4893f71531140dd5879148c7ba0981cdb4"
+  version "1.0.1"
+  sha256 "b08238313e40110cbda9a5fe6dee3e360ae7c39acc9f2f4d0bed2b2fa99b57f2"
 
   url "https://github.com/f/fastbar/releases/download/v#{version}/FastBar.dmg"
   name "FastBar"
