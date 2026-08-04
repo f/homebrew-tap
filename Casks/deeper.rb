@@ -7,7 +7,7 @@ cask "deeper" do
   desc "macOS messaging analytics app for Beeper — visualize your conversations across platforms"
   homepage "https://github.com/f/deeper"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Deeper.app"
 
