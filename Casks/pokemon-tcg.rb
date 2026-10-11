@@ -1,6 +1,6 @@
 cask "pokemon-tcg" do
-  version "0.1.0"
-  sha256 "63678e68cd8ffefdd198e5705630d125c0af6fc3c69e2c81bcf67e761ccae95a"
+  version "0.1.1"
+  sha256 "642d437adfd1ae420ca43f1e243c5b5cbd3eb81a959df7abde8769363dfa33a5"
 
   url "https://github.com/f/pokemon-tcg/releases/download/v#{version}/Pokemon-TCG_#{version}_aarch64.dmg"
   name "Pokemon TCG"
