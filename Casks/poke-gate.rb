@@ -7,7 +7,7 @@ cask "poke-gate" do
   desc "macOS menu bar app to expose your machine to your Poke AI assistant"
   homepage "https://github.com/f/poke-gate"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Poke macOS Gate.app"
 

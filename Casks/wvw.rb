@@ -15,7 +15,7 @@ cask "wvw" do
   desc "World Vibe Web — the distributed app store for vibe-coded projects"
   homepage "https://wvw.dev"
 
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
 
   app "WVW.app"
 

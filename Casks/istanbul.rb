@@ -7,7 +7,7 @@ cask "istanbul" do
   desc "macOS menu bar app for ambient Istanbul soundscapes from BBC Rewind"
   homepage "https://github.com/f/istanbul"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Istanbul.app"
 
